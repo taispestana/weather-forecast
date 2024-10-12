@@ -8,3 +8,9 @@ Este é um projeto de uma página de **previsão do tempo** desenvolvido com **H
 - **CSS** para estilização da página.
 - **JavaScript** para implementar a funcionalidade da página e consultar API.
 - **API OpenWeather** API para consultar informações do clima.
+
+
+## 🚀 Como Acessar 
+
+Para acessar basta entrar no site abaixo e escolher um local
+- https://taispestana.github.io/weather-forecast/
